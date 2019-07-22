@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Qourier - Technical Test</string>
+    <string name="title_welcome">Welcome to my Test project</string>
+    <string name="question1">Question 1</string>
+    <string name="question2">Question 2</string>
+    <string name="arrivals">Arrivals</string>
+    <string name="departures">Departures</string>
+    <string name="test_case">Test Case</string>
+    <string name="retry">Retry</string>
+</resources>
